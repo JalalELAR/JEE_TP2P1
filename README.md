@@ -1,0 +1,8 @@
+![application](https://github.com/JalalELAR/JEE_TP2P1/assets/111985978/fb736780-d3e0-4b04-9a86-c21cd4c0f8f5)
+![1](https://github.com/JalalELAR/JEE_TP2P1/assets/111985978/3d4183fc-682f-48ec-9fa5-6ef109025614)
+![produitserviceimpl](https://github.com/JalalELAR/JEE_TP2P1/assets/111985978/9e802638-df75-4442-8d7d-84b83ceaed22)
+![produitrepo](https://github.com/JalalELAR/JEE_TP2P1/assets/111985978/adf7b693-ad8b-4210-b80f-268cb380ee55)
+![produit](https://github.com/JalalELAR/JEE_TP2P1/assets/111985978/0d57257b-f670-4e37-b2f8-e9dd6b99a5cb)
+![Iproduitserv](https://github.com/JalalELAR/JEE_TP2P1/assets/111985978/a1186c00-e9c2-4a35-8880-76a13edbe90c)
+![controller2](https://github.com/JalalELAR/JEE_TP2P1/assets/111985978/5c15803d-129a-497a-b0bc-5cadea6e2641)
+![controller1](https://github.com/JalalELAR/JEE_TP2P1/assets/111985978/cd5d536c-c1e6-47e8-b26c-37d1242ea168)
